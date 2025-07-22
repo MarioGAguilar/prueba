@@ -6,6 +6,7 @@ def calculadora():
         print("3. Multiplicar")
         print("4. Dividir")
         print("5. Salir")
+        print ("6. esta es una linea de prueba")
 
         opcion = input("Elige una opción (1/2/3/4/5): ")
 
